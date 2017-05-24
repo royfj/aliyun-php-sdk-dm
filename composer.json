@@ -1,0 +1,31 @@
+{
+    "name": "royfj/aliyun-php-sdk-sms",
+    "type": "library",
+    "description": "Aliyun PHP SDK SMS",
+    "version": "0.1.0",
+    "license": "MIT",
+    "homepage": "https://www.aliyun.com",
+    "authors": [
+        {
+            "name": "Li Guanghui",
+            "email": "liguanghui2006@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3",
+        "royfj/aliyun-php-sdk-core": ">=0.1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dm\\Request\\V20151123\\": "src/"
+        }
+    },
+    
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
