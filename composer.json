@@ -2,7 +2,7 @@
     "name": "royfj/aliyun-php-sdk-dm",
     "type": "library",
     "description": "Aliyun PHP SDK DM",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "license": "MIT",
     "homepage": "https://www.aliyun.com",
     "authors": [
