@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dm\\Request\\V20151123\\": "src/"
+            "Dm\\": "src/Dm"
         }
     },
     
